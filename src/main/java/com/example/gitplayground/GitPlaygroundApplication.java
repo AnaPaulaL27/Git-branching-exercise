@@ -17,4 +17,6 @@ public class GitPlaygroundApplication {
 	//F1 change 2
 	//conflict expected
 	//another, local change
+	//a remote change
+
 }
